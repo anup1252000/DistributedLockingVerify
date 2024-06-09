@@ -1,0 +1,6 @@
+@DistributionLockVerify.API_HostAddress = http://localhost:5116
+
+GET {{DistributionLockVerify.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
